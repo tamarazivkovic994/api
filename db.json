@@ -161,6 +161,11 @@
             "id": 3,
             "ime": "Haruki",
             "prezime": "Murakami"
+        },
+        {
+            "id": ,
+            "ime": "Takenoko",
+            "prezime": "Tasholina"
         }
     ],
     "zanrovi": [
